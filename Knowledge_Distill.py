@@ -495,7 +495,7 @@ def prepare_data_split(filtered_embeddings, genre_labels):
     return train_embeddings, test_embeddings, train_labels, test_labels
 
 #****************************************************************************************
-#----------------------------------- LightGNN-----------------------------
+#----------------------------------- TinyGCN-----------------------------
 #****************************************************************************************
 
 # Function to create separate subgraphs for each relation
