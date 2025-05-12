@@ -1,6 +1,8 @@
 # DistillHGNN
 DistillHGNN: A Knowledge Distillation Approach for High-Speed Hypergraph Neural Networks
 
+## The Thirteenth International Conference on Learning Representations (ICLR) - 2025
+
 ## Overview
 
 DistillHGNN is a novel framework that significantly enhances the inference speed and memory efficiency of Hypergraph Neural Networks (HGNNs) while maintaining high accuracy. Our approach employs an advanced teacher-student knowledge distillation strategy that makes HGNNs practical for real-world, large-scale applications.
