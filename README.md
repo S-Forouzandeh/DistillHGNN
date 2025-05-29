@@ -8,11 +8,6 @@
 
 > **Published at The Thirteenth International Conference on Learning Representations (ICLR) 2025**
 
-## 🔥 News
-- **[2025-01]** Paper accepted at ICLR 2025!
-- **[2024-12]** Code and datasets released
-- **[2024-11]** Preprint available on arXiv
-
 ## 🎯 Overview
 
 **DistillHGNN** is a breakthrough framework that revolutionizes Hypergraph Neural Networks (HGNNs) by delivering **up to 82× faster inference** while maintaining competitive accuracy. Our approach addresses the critical bottleneck of HGNNs in real-world applications through an innovative teacher-student knowledge distillation strategy that preserves both soft labels and structural knowledge.
