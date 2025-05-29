@@ -231,9 +231,6 @@ This research is partially supported by Australian Research Council through proj
 ## 📧 Contact
 
 - **Saman Forouzandeh** - saman.forouzandeh@rmit.edu.au
-- **Parham Moradi** - parham.moradi@rmit.edu.au  
-- **Mahdi Jalili** - mahdi.jalili@rmit.edu.au
-
 **RMIT University, School of Engineering, Melbourne, Australia**
 
 ---
